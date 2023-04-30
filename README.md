@@ -25,7 +25,7 @@ Se modificaron la pose relativa y la velocidad y creó un ciclo for donde se dib
 
 <p align="center">
   <img src="https://github.com/JuanJRojas/G3-JJF-Lab3rob/blob/main/TurtlePath.png"
-       width="200"/>
+       width="400"/>
 </p>
 
 En el repositorio se encuentran: 
